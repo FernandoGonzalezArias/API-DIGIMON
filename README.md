@@ -1,3 +1,3 @@
-# PAGINA DEPLEGADA EN GITHUB PAGES 
+# PAGINA DEPLEGADA EN VERCEL
 
-https://fernandogonzalezarias.github.io/api-digimon/
+https://api-digimon-one.vercel.app/
